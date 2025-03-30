@@ -1,9 +1,9 @@
 # sciQUIZ Game
 
-<img href="https://github.com/WKRPrabashwara/sciQUIZ/blob/main/preview.jpg" />
+<img src="https://github.com/WKRPrabashwara/sciQUIZ/blob/main/preview.jpg" width=600/>
 
 ## requirements
-
+```sh
 pip install requests
 
 
