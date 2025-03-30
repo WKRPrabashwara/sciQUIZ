@@ -1,1 +1,5 @@
-# sciQUIZ
+# sciQUIZ Game
+
+## requirements
+
+pip install import requests
